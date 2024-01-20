@@ -19,8 +19,8 @@
     "@typescript-eslint/parser": "^6.18.1"
   },
   "dependencies": {
-    "@zhttp/core": "^1.0.0",
-    "@zhttp/errors": "^1.0.0",
+    "@zhttp/core": "^1.0.1",
+    "@zhttp/errors": "^1.0.1",
     "zod": "^3.22.4"
   }
 }
