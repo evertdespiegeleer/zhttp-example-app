@@ -14,6 +14,7 @@ export const server = new Server(
   },
   {
     port: 3000,
+    bypassAllowedOrigins: true,
     oasInfo: {
       title: 'A very cool api',
       version: '1.0.0'
